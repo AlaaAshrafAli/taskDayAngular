@@ -1,0 +1,19 @@
+/* navbar.component.css */
+
+/* Styles for the navigation links */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  /* Style for the active link (e.g., changing the color to orange) */
+  .active {
+    color: orange;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.css";
+/* styles.css or a component-specific CSS file */
+.active-link {
+    color: orange; /* Set the color for active links */
+  }
+  
